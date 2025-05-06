@@ -1,0 +1,22 @@
+         h2{
+            margin:30px 0px 0px 550px;
+            font-size: 50px;
+         }
+ 
+        table {
+            margin: 100px 0px 0px 150px;
+            width: 80%;
+            border-collapse: collapse;
+            font-size: 16px;
+        }
+        th{
+        background-color: skyblue;
+         border: 1px solid black;
+            padding: 8px;
+        } 
+        td {
+            border: 1px solid black;
+            padding: 8px;
+            background-color: transparent;
+        }
+        
